@@ -1,0 +1,4 @@
+﻿  Zad1.cpp
+F:\Korepetycje\Osoby\PawełKatowice\KolokwiumBlok2\Zad1\Zad1\Zad1.cpp(99,24): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+F:\Korepetycje\Osoby\PawełKatowice\KolokwiumBlok2\Zad1\Zad1\Zad1.cpp(104,24): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Zad1.vcxproj -> F:\Korepetycje\Osoby\PawełKatowice\KolokwiumBlok2\Zad1\Debug\Zad1.exe
